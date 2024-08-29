@@ -30,7 +30,7 @@
   
   <style>
     .letter-container {
-        font-size: 1.5rem;
+        font-size: 1.3rem;
       display: flex;
       justify-content: center;
       align-items: center;
